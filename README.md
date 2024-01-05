@@ -19,6 +19,8 @@ I am a statistician and data analyst with extensive experience in using various 
 ![scikit-learn](https://img.shields.io/badge/Code-Scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white&color=4AB197)
 ![TensorFlow](https://img.shields.io/badge/Code-TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white&color=4AB197)
 ![Microsoft Access](https://img.shields.io/badge/Code-Microsoft_Access-A4373A?style=flat&logo=microsoft-access&logoColor=white&color=4AB197)
+![Microsoft Azure](https://img.shields.io/badge/Code-Microsoft_Azure-A4373A?style=flat&logo=microsoft-access&logoColor=white&color=4AB197)
+![BigQuery](https://img.shields.io/badge/Code-BigQuery-A4373A?style=flat&logo=microsoft-access&logoColor=white&color=4AB197)
 ![Microsoft Excel](https://img.shields.io/badge/Code-Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white&color=4AB197)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Sytle-Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white&color=4AB197)
 ![GitHub](https://img.shields.io/badge/Code-Github-%23121011.svg?style=flat&logo=github&logoColor=white&color=4AB197)
