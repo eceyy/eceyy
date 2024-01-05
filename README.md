@@ -1,32 +1,25 @@
 Hey there 👋
 
-I’m Ece, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
-
+I am a statistician and data analyst with extensive experience in using various tools and technologies to collect, organize, and analyze data for business decision-making. I am an expert in Python, BigQuery, SQL, SPSS, R, Excel, Power BI, and Tableau. Additionally, with more than four years of experience, I possess a strong understanding of data analysis techniques, including dashboarding, report writing, data mining, statistics, and critical thinking.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ece-yavuzyilmaz-563542253/)
 
 
-## 📝 Latest Blog Posts
-
 <br>
 
-<!-- BLOG-POST-LIST:START -->
 
-<!-- BLOG-POST-LIST:END -->
-
-<br>
 
 ## 📌 Pinned Repositories
 
 <br>
 
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
+<a href="https://github.com/eceyy/final_jupyter_covid19_project">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
-<a href="https://github.com/braydoncoyer/pomegradient">
+<a href="https://github.com/eceyy/British-Airways-Data-Science-Virtual-Intership">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
