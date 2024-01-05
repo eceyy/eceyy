@@ -2,7 +2,7 @@ Hey there 👋
 
 I am a statistician and data analyst with extensive experience in using various tools and technologies to collect, organize, and analyze data for business decision-making. I am an expert in Python, BigQuery, SQL, SPSS, R, Excel, Power BI, and Tableau. Additionally, with more than four years of experience, I possess a strong understanding of data analysis techniques, including dashboarding, report writing, data mining, statistics, and critical thinking.
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ece-yavuzyilmaz-563542253/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=4AB197)](https://www.linkedin.com/in/ece-yavuzyilmaz-563542253/)
 
 
 <br>
