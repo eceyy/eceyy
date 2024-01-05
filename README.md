@@ -25,7 +25,7 @@ I am a statistician and data analyst with extensive experience in using various 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white&color=4AB197)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white&color=4AB197)
 ![R](https://img.shields.io/badge/r-informational?style=flat&logo=r&logoColor=white&color=4AB197)
-![PowerBI](https://img.shields.io/badge/PowerBI-informational?style=flat&logo=Power%20BI&logoColor=white&color=4AB197)
+![PowerBI](https://img.shields.io/badge/PowerBI-informational?style=flat&logo=PowerBI&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
